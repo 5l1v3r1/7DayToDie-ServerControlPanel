@@ -1,0 +1,2 @@
+# 7DayToDie-ServerControlPanel
+一个简易的七日杀服务器设置及控制面板
